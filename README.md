@@ -57,7 +57,9 @@ En profesor: Es necesario colocar ambos métodos abstractos, pero para saltar no
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-11/assets/134556600/e97001a0-a107-471e-9c61-8bf0b5f71cae)
 
+## Modificación del listado con INNER o LEFT JOIN (Aprovechamiento de Beans)
 
+Queremos saber a qué nombres de departamento y empleado hacen referencia el managerID y el departmentID
 
 
 
