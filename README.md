@@ -65,7 +65,21 @@ Migramos y empleamos Beans como atributos y luego generamos Getters y Setters de
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-11/assets/134556600/60697abd-506b-47c0-8c26-065c0392af59)
 
-## 1:21
+
+Empleamos este Query que concatena tablas en una sola comparando los valores de los atributos:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-11/assets/134556600/733531d5-079a-4579-9769-78267d47cb9e)
+
+Colocamos el Query:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-11/assets/134556600/3c81dadb-1861-4b17-96eb-5b5aa0097083)
+
+
+
+
+
+
+
 ## Arreglamos de capa en capa ()
 
 
