@@ -61,8 +61,12 @@ En profesor: Es necesario colocar ambos métodos abstractos, pero para saltar no
 
 Queremos saber a qué nombres de departamento y empleado hacen referencia el managerID y el departmentID
 
+Migramos y empleamos Beans como atributos y luego generamos Getters y Setters de nuevo:
 
+![image](https://github.com/SergioABS0813/CLASE-IWEB-11/assets/134556600/60697abd-506b-47c0-8c26-065c0392af59)
 
+## 1:21
+## Arreglamos de capa en capa ()
 
 
 
