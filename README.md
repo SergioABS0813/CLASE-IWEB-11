@@ -20,6 +20,57 @@ Resultado:
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-11/assets/134556600/5852c07a-8a5f-4175-b04f-a907822cd83f)
 
+## Crear clase BaseDao
+Esta clase solo realiza conexión con la base de Datos y permite generalizar y usarla en cualquier clase Dao y métodos dentro de cada Dao. Para no estar copiando y pegando a cada rato el Driver o los parámetros de conexión. 
+
+Así, el método de conexión, lo podrán usar todos los hijos de BaseDao por herencia.
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-11/assets/134556600/640e2167-8b09-4b92-9742-555ca9a63f3b)
+
+Cabe resaltar que podemos trabajar con varias bases de datos, solo hacemos otro método dentro de BaseDao.
+
+## Clases Abstractas
+Son clases que no necesitamos instanciar, por ejemplo, HTTPServlet o DaoBase.
+
+Vemos que DaoBase es abstracta:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-11/assets/134556600/640e2167-8b09-4b92-9742-555ca9a63f3b)
+
+## Métodos Abstractos
+Son métodos que se designan en las clases Padre para que las clases hijo deban sí o sí implementarla en la propia clase.
+
+Ejemplo de vida real: Persona es la clase Padre, Alumno y Profesor son clases hijos de Persona, entonces colocamos el método de "estudiar" en persona y de seguro que el alumno y el profesor estudian de forma diferente, pero ambos sí o sí tienen que estudiar.
+
+Implementamos métodos comer y estudiar abstractos.
+
+Luego implementamos "saltar" como método.
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-11/assets/134556600/8bdc2669-1146-411f-b31b-286d37540286)
+
+En profesor: Es necesario colocar ambos métodos abstractos, pero para saltar no es necesario
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-11/assets/134556600/07edfb42-73cf-45c2-b9ed-0f41f31f81a8)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
