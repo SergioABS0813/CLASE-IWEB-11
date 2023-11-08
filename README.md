@@ -51,10 +51,11 @@ En profesor: Es necesario colocar ambos métodos abstractos, pero para saltar no
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-11/assets/134556600/07edfb42-73cf-45c2-b9ed-0f41f31f81a8)
 
+## Razonamiento sobre Métodos y Clases Abstractas (Ejemplo Persona, Profesor, Alumno, Alumno Teleco y Alumno Electrónico)
 
+![image](https://github.com/SergioABS0813/CLASE-IWEB-11/assets/134556600/357b2cef-4caa-4aad-90a1-3ade8a002a1d)
 
-
-
+![image](https://github.com/SergioABS0813/CLASE-IWEB-11/assets/134556600/e97001a0-a107-471e-9c61-8bf0b5f71cae)
 
 
 
