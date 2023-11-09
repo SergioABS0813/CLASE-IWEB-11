@@ -100,9 +100,10 @@ Primero se tiene que mandar la lista de trabajos desde el servlet hasta a la pá
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-11/assets/134556600/5addc67c-9de9-4e24-80b3-7e7236f6103c)
 
-Luego de enviar las listas correspondientes desde el servlet con Dao:
+Luego de enviar las listas correspondientes desde el servlet con Dao y también se agregó el caso en el que no presente Departamento ni Jefe (hardcodeado)
 
-![image](https://github.com/SergioABS0813/CLASE-IWEB-11/assets/134556600/987a2d70-6cae-4184-9725-6375a545c27b)
+![image](https://github.com/SergioABS0813/CLASE-IWEB-11/assets/134556600/8b726edb-141c-455d-bb14-137d57b9d367)
+
 
 
 
