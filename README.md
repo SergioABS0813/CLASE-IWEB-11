@@ -78,6 +78,9 @@ Cambios en el Fetch ahora teniendo como atributo a los Beans:
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-11/assets/134556600/9cdf9e8a-c120-4573-be92-d7cecbee156a)
 
+Referencia de "e" y "m" en el Query por esta tabla:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-11/assets/134556600/8fa8918b-483c-4d93-b5b1-9cfc3557b53e)
 
 
 
