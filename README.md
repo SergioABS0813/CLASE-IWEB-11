@@ -82,8 +82,13 @@ Referencia de "e" y "m" en el Query por esta tabla:
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-11/assets/134556600/8fa8918b-483c-4d93-b5b1-9cfc3557b53e)
 
+Método set EmployeeData para guardar (crear) un nuevo empleado o actualizar. Solo es seteo de datos, por eso se usa para ambos casos:
 
+![image](https://github.com/SergioABS0813/CLASE-IWEB-11/assets/134556600/51f7f276-1254-4ccd-9ea8-4e116cc93551)
 
+Se emplea esta lógica, contando que el alto jefe no tiene otro jefe para el empleado (= null manager_id)
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-11/assets/134556600/21f3a75e-7700-42b0-88ec-a36ff8409e28)
 
 
 ## Arreglamos de capa en capa ()
