@@ -90,8 +90,23 @@ Se emplea esta lógica, contando que el alto jefe no tiene otro jefe para el emp
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-11/assets/134556600/21f3a75e-7700-42b0-88ec-a36ff8409e28)
 
+Cambios en la lista:
 
-## Arreglamos de capa en capa ()
+![image](https://github.com/SergioABS0813/CLASE-IWEB-11/assets/134556600/7da94061-7554-42b3-aeec-45ebce68cb59)
+
+Aplicando Combobox para escoger los empleos disponibles:
+
+Primero se tiene que mandar la lista de trabajos desde el servlet hasta a la página web
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-11/assets/134556600/5addc67c-9de9-4e24-80b3-7e7236f6103c)
+
+
+
+## Versión del Bootstrap
+Siempre fijarnos en la versión del Bootstrap de nuestro proyecto y emplear las de la página web:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-11/assets/134556600/46040f47-bed6-48e0-b299-a9c1ff45f4da)
+
 
 
 
