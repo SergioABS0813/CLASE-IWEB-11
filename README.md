@@ -108,6 +108,7 @@ Luego de enviar las listas correspondientes desde el servlet con Dao y también 
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-11/assets/134556600/4a144979-cf1e-47a2-830a-440f2fd401fd)
 
+![image](https://github.com/SergioABS0813/CLASE-IWEB-11/assets/134556600/cba6a29a-be81-4d7e-b8f6-88b2ac5038d2)
 
 
 ## Versión del Bootstrap
