@@ -104,7 +104,9 @@ Luego de enviar las listas correspondientes desde el servlet con Dao y también 
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-11/assets/134556600/8b726edb-141c-455d-bb14-137d57b9d367)
 
+## Para que cuando se escoja una opción se quede seleccionada en el combobox:
 
+![image](https://github.com/SergioABS0813/CLASE-IWEB-11/assets/134556600/4a144979-cf1e-47a2-830a-440f2fd401fd)
 
 
 
