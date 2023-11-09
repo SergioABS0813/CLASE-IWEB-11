@@ -70,10 +70,13 @@ Empleamos este Query que concatena tablas en una sola comparando los valores de 
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-11/assets/134556600/733531d5-079a-4579-9769-78267d47cb9e)
 
-Colocamos el Query:
+Colocamos el Query. El método fetch sacará la info necesaria y los pondrá en cada empleado para que en este método que vemos solo se listen. Ahora, sacaremos información pero a través de Beans
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-11/assets/134556600/3c81dadb-1861-4b17-96eb-5b5aa0097083)
 
+Cambios en el Fetch ahora teniendo como atributo a los Beans:
+
+![image](https://github.com/SergioABS0813/CLASE-IWEB-11/assets/134556600/9cdf9e8a-c120-4573-be92-d7cecbee156a)
 
 
 
