@@ -94,6 +94,7 @@ Cambios en la lista:
 
 ![image](https://github.com/SergioABS0813/CLASE-IWEB-11/assets/134556600/7da94061-7554-42b3-aeec-45ebce68cb59)
 
+## COMBOBOX
 Aplicando Combobox para escoger los empleos disponibles:
 
 Primero se tiene que mandar la lista de trabajos desde el servlet hasta a la página web
